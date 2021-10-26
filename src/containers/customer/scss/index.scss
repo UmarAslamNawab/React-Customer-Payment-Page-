@@ -1,0 +1,44 @@
+@import "../../../theme/variables.scss";
+
+.info_head {
+    span {
+        margin-left: 10px;
+        font-weight: 600;
+    }
+}
+
+.text_light {
+    color: $light-text;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.pv-30 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.light_line {
+    height: 1px;
+    width: 100%;
+    background-color: $light-text;
+    opacity: 0.2;
+}
+
+.info_address {
+    width: 200px;
+}
+
+.help {
+    span {
+        font-weight: 600;
+        color: $forest-green;
+        margin-left: 10px;
+    }
+}
+
+.pb-30 {
+    padding-bottom: 30px;
+}
